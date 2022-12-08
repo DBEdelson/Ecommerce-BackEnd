@@ -52,6 +52,7 @@ To run via local environment:
 ## Credits
 
 Debug: Shawn Tschoepe Github: https://github.com/shawn220a
+Debug: Salissa Github: https://github.com/Salissa4
 
 ## License
 
